@@ -1,4 +1,0 @@
-https://cursos.formacionactivate.es/idesweb-parte-1/course#course-content
-http://www.nodebeginner.org/index-es.html
-
-Esto nos permitira atar los manipuladores
